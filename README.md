@@ -106,4 +106,6 @@ As we move into 2025, the darknet market landscape will continue to evolve. By u
 
 Plase contribute and add stars to this repo.
 
-Update:  04.07.2025 04:44
+
+
+Update:  07.07.2025
